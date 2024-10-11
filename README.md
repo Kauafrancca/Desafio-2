@@ -10,8 +10,12 @@ O qual me capacitou a criar páginas com demarcações específicas, configuraç
   <p>- CSS</p>
 <br>
 <strong>Desktop</strong>
+<br>
+<br>
 <img src="https://github.com/Kauafrancca/Easy-Shop/blob/main/assets/computador.png?raw=true" />
 <br>
-Smartphone
-<img src="" />
+<strong>Smartphone</strong>
+<br>
+<br>
+<img src="https://github.com/Kauafrancca/Easy-Shop/blob/main/assets/celular.png?raw=true" />
 
